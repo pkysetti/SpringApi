@@ -1,7 +1,7 @@
 package com.roothelix.blueprism;
 
 /*
-Relase 1.1  change
+Relase 1.1  changed in local
 */
 public class Greeting {
 
